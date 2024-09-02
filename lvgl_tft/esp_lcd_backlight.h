@@ -5,6 +5,7 @@
 #ifndef ESP_LCD_BACKLIGHT_H
 #define ESP_LCD_BACKLIGHT_H
 
+#define SIG_GPIO_OUT_IDX 128
 /*********************
  *      INCLUDES
  *********************/
